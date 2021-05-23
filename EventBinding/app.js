@@ -1,4 +1,4 @@
-app = Vue.createApp({
+const app = Vue.createApp({
     data(){
       return{
         alertText:'Welcome to our site !',
